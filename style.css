@@ -5,6 +5,9 @@
 }
 
 body{
-    background-color: gold;
+    background-color: aqua;
     min-height: 100vh;
+}
+h2{
+    text-align: center;
 }
